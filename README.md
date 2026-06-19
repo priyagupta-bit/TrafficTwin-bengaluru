@@ -1,6 +1,6 @@
 # TrafficTwin Bengaluru
 
-hosted on streamlit: [https://traffictwin-bengaluru.streamlit.app/](https://traffictwinbengaluru.streamlit.app/)
+hosted on streamlit: https://traffictwinbengaluru.streamlit.app/
 ## Problem
 
 Traffic incidents create unpredictable congestion and inefficient resource allocation.
